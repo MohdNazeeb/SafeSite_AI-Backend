@@ -72,6 +72,7 @@ SafeSite_AI-Backend/
 ├── s3_client.py            # Cloud storage utilities
 ├── utils.py                # Helper functions
 ├── safesite_ai.db          # SQLite database
+```
 
 ## 🧩 Module Overview
 
